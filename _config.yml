@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: https://hortalliure.github.io
 
 # Title of the Site
 title: Horta Lliure
@@ -13,7 +13,7 @@ description: Creativitat, llibertat i més cosetes.
 # URL of Image of the Site
 site-image: /assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Horta, Ecologia, linux, compostatge
+site-keywords: Horta, Ecologia, linux, compostatge
 # URL for the Image of custom Favicon
 favicon-url:
 
