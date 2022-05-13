@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl:
 
 # Title of the Site
 title: Horta Lliure
@@ -38,7 +38,7 @@ spotify_username: /
 google-analytics: /
 
 # Disqus
-disqus-shortname: joseenriquegmez
+disqus-shortname: hortalliure-github-io
 
 # Name of the Author
 author-name: Jose E. Gómez
