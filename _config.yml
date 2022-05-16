@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Horta Lliure
 # Description of the Site
-description: Creativitat, llibertat i més cosetes.
+description: Creativitat, llibertat, ecologia i més cosetes.
 # URL of Image of the Site
 site-image: /assets/images/meta.jpg
 # Keywords of the Site
@@ -33,13 +33,13 @@ reddit_username: /
 behance_username: /
 dribbble_username: /
 spotify_username: /
+discord_username: hortalliure#7940
 
 # Google Analytics
 google-analytics: /
 
 # Disqus
-disqus-shortname: hortalliure.github.io
-
+disqus-shortname: /
 # Name of the Author
 author-name: Jose E. Gómez
 # URL for the Image of the Author

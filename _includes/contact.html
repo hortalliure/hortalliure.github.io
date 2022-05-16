@@ -12,9 +12,56 @@
             <a id="contact-button" href="mailto:{{site.email}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fas fa-envelope"></i>Send me an Email
+                <i class="fas fa-envelope"></i>Enviam un correu
             </a>
             {% endunless %}
+            <hr>
+            <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
+                Pots trobar-nos en
+            </h3>
+            {% unless site.discord_username == %}
+            <a id="contact-button" href="https://discord.com/channels/775677349676449801/775677349676449804"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-discord"></i>#General
+            </a>
+            {% endunless %}
+            {% unless site.discord_username == %}
+            <a id="contact-button" href="https://discord.com/channels/775677349676449801/775679339856396299"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-discord"></i>#hort
+            </a>
+            {% endunless %}
+            {% unless site.discord_username == %}
+            <a id="contact-button" href="https://discord.com/channels/775677349676449801/775679300505829396"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-discord"></i>#Compostatge
+            </a>
+            {% endunless %}
+            {% unless site.discord_username == %}
+            <a id="contact-button" href="https://discord.com/channels/775677349676449801/775679791445573672"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-discord"></i>#medi-ambient
+            </a>
+            {% endunless %}
+            {% unless site.discord_username == %}
+            <a id="contact-button" href="https://discord.com/channels/775677349676449801/775847335484719154"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-discord"></i>#gnu-linux
+            </a>
+            {% endunless %}
+            {% unless site.discord_username == %}
+            <a id="contact-button" href="https://discord.com/channels/775677349676449801/775847336500527114"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fab fa-discord"></i>#seguretat-informatica
+            </a>
+            {% endunless %}
+
             <!--{% unless site.twitter_username == %}
             <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
@@ -27,7 +74,14 @@
                 You Can find me here
             </h3>
             <div class="column is-full is-size-3">
-                {% unless site.facebook_username == %}
+              {% unless site.discord_username == %}
+                  <a href="https://discord.com/channels/775677349676449801/775677349676449804" target="_blank" class="has-text-black">Horta Lliure #General<i class="fab fa-discord"></i></a>
+              {% endunless %}
+              {% unless site.discord_username == %}
+                  <a href="https://discord.com/channels/775677349676449801/775679339856396299" target="_blank" class="has-text-black">Horta Lliure #Hort<i class="fab fa-discord"></i></a>
+              {% endunless %}
+
+              {% unless site.facebook_username == %}
                 <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
                 {% endunless %}
                 {% unless site.twitter_username == %}
