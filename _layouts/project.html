@@ -8,7 +8,7 @@ layout: compress
 
 <body>
     {% include navbar.html %}
-    <section class="hero is-fullheight">
+    <section class="hero ">
         <div class="hero-body">
             <div class="container id="page-section">
                 <div class="section">
@@ -23,17 +23,30 @@ layout: compress
             </div>
         </div>
     </section>
-    <section class="hero is-fullheight" id="blog">
+    <!--Workshop Cards section -->
+    <section class="hero" id="project" >
         <div class="hero-body">
-            <div class="container">
-                {% include blogpage-heading.html %}
+            <div class="container has-text-centered">
+              <div class="section">
+                  <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Tallers, activitats i altres propostes</p>
+              </div>
+                {% include workshop-card.html %}
             </div>
         </div>
-        <div id="results-container"></div>
-        <!--Blog Cards Section-->
-        {% for post in site.categories[page.projectCategory]%}
-            {% include blog-card.html %}
-        {% endfor %}
+
+    </section>
+
+
+    <section class="hero" id="blog">
+        <div class="hero-body">
+            <div class="container">
+                {% include projectblog-heading.html %}
+                {% for post in site.categories[page.projectCategory]%}
+                    {% include blog-card.html %}
+                {% endfor %}
+            </div>
+        </div>
+
     </section>
     <!--Footer begins here-->
     {% include footer.html %}
