@@ -16,7 +16,7 @@ El nostre desig es promoure l'ús de software lliure dintre del àmbit escolar i
 
 
 
- ![gnulinux](/assets/images/GNU-Linux/gnulinux.jpg)
+ [comment]: ![gnulinux](/assets/images/GNU-Linux/gnulinux.jpg)
 
 ## GNU/linux
 *La llibertat no és poder triar entre unes poques opcions imposades, sinó tenir el control de la teva pròpia vida. La llibertat no és triar qui serà el teu amo, és no tenir amo. By
@@ -45,7 +45,7 @@ Promou valors com la col·laboració, convertint aquest sistema en un software �
 És un sistema força adaptable que permet fer-lo servir en equips vells, allargant la seva vida útil i amb això fomenta la reutilització d’equips.
 
 
-![oficina](/assets/images/software/Oficina/oficina.jpeg)
+ [comment]: ![oficina](/assets/images/software/Oficina/oficina.jpeg)
 
 ## Programari d'oficina
 Dintre del programari de productivitat de moltes de les distribucions de Linux trobem moltes eines molt indicades per l'ús dintre d'un entorn d'oficina.
@@ -57,7 +57,7 @@ Dintre del programari de productivitat de moltes de les distribucions de Linux t
 * [LATEX](https://www.latex-project.org/): Edició d'articles i llibres d'ús molt comú dintre de la comunitat científica i acadèmica.
 
 
-![matematiques](/assets/images/software/Matemàtiques/IMG_20220131_174601.jpg)
+ [comment]: ![matematiques](/assets/images/software/Matemàtiques/IMG_20220131_174601.jpg)
 
 ## Matemàtiques
 Programari orientat a les matemàtiques tant des del besant educatiu com professional.
