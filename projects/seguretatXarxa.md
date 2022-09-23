@@ -11,7 +11,7 @@ Ser responsable de la seguretat i de les accions dels nostres fills a la xarxa n
 
 Aquest control i restricció de llibertat genera molts conflictes familiars, sobretot en adolescents. Aquestes restriccions han de ser adequades a l’edat de l’infant i adolescent de manera que es respectin els seus drets i els drets dels representants legals.
 
-Per poder exercir aquest control és important tenir els coneixements necessaris per fer-ho, això implica formar-nos.
+Per poder exercir aquest control és important tenir els coneixements necessaris per fer-ho, això implica formar-se.
 
 ## Seguretat a la xarxa
 
@@ -19,7 +19,7 @@ Taller orientat a associacions de pares i mares, adolescents i centres cívics.
 
 És un taller pràctic per millorar la seguretat i la protecció dels infants i la família.
 
-Eines que fem servir: **Google Family Link, Google SafeSearch, Youtube Restricted mode, Whitelist als navegadors, extensions AdBlock, Gosthery i keepass**.
+Eines que fem servir: **Google Family Link, Google SafeSearch, Youtube Restricted mode, Whitelist als navegadors, extensions AdBlock, Gosthery i Keepass**.
 
 Treballarem aquests temes relacionats amb l'accés dels menors a la xarxa:
 - Accés a la informació.
