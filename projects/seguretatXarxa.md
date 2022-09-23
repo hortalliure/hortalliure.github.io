@@ -19,19 +19,14 @@ Taller orientat a associacions de pares i mares, adolescents i centres cívics.
 
 És un taller pràctic per millorar la seguretat i la protecció dels infants i la família.
 
-Eines que fem servir: **Google Family Link, Google SafeSearch, Youtube Restricted mode, Whitelist als navegadors, extensions AdBlock i Gosthery**.
+Eines que fem servir: **Google Family Link, Google SafeSearch, Youtube Restricted mode, Whitelist als navegadors, extensions AdBlock, Gosthery i keepass**.
 
 Treballarem aquests temes relacionats amb l'accés dels menors a la xarxa:
-
-    Accés a la informació.
-
-    Accés a persones.
-
-    Compartir informació personal.
-
-    Bullying.
-
-    Addiccions a xarxes socials i jocs.
+    - Accés a la informació.
+    - Accés a persones.
+    - Compartir informació personal.
+    - Bullying.
+    - Addiccions a xarxes socials i jocs.
 
 ## 14, 16 i 18
 
