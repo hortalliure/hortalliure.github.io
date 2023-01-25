@@ -1,0 +1,58 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+    {% include navbar.html %}
+    <section class="hero ">
+        <div class="hero-body">
+            <div class="container id="page-section">
+                <div class="section">
+                  <figure class="image is-3by1 has-shadow">
+                    <img class="overflow" src="{{page.image}}" alt="{{page.title}}" id="workshop-image">
+                  </figure>
+                    <h1 class="title is-1 is-uppercase has-text-weight-bold">
+                        {{page.title}}
+                    </h1>
+                    <hr class="has-background-black">
+                    <div class="content is-marginless">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Workshop Cards section -->
+    <section class="hero" id="project" >
+        <div class="hero-body">
+            <div class="container has-text-centered">
+              <div class="section">
+                  <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Tallers, activitats i altres propostes</p>
+              </div>
+                {% include workshop-card.html %}
+            </div>
+        </div>
+
+    </section>
+
+
+    <section class="hero" id="blog">
+        <div class="hero-body">
+            <div class="container">
+                {% include workshopblog-heading.html %}
+                {% for post in site.categories[page.projectCategory]%}
+                    {% include blog-card.html %}
+                {% endfor %}
+            </div>
+        </div>
+
+    </section>
+    <!--Footer begins here-->
+    {% include footer.html %}
+</body>
+
+</html>

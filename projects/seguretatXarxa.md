@@ -2,7 +2,7 @@
 title: Seguretat a la xarxa en entorns familiars
 layout: project
 projectCategory: Seguretat-xarxa
-image: /assets/images/seguretat/adolescentMobil.jpg
+image: /assets/images/seguretat/adolescentXarxaTitle.png
 ---
 
 ## Llibertat vs. seguretat
@@ -11,7 +11,7 @@ Ser responsable de la seguretat i de les accions dels nostres fills a la xarxa n
 
 Aquest control i restricció de llibertat genera molts conflictes familiars, sobretot en adolescents. Aquestes restriccions han de ser adequades a l’edat de l’infant i adolescent de manera que es respectin els seus drets i els drets dels representants legals.
 
-Per poder exercir aquest control és important tenir els coneixements necessaris per fer-ho, això implica formar-se.
+Per poder exercir aquest control és important tenir els coneixements necessaris, això implica formar-se.
 
 ## Seguretat a la xarxa
 
@@ -36,4 +36,4 @@ Aquestes són les edats on hi ha canvis en els drets i deures dels infants i ado
 
 **16:** Edat de consentiment de relacions sexuals a Espanya.
 
-**18:** Gaudeix de tots els drets i deures d’un adult. Els menors de 18 estan sota la tutela d’adults o entitats que són responsables dels seus actes i en cas de danys a tercers han de respondre.
+**18:** Gaudeix de tots els drets i deures d’un adult. Els menors de 18 estan sota la tutela d’adults o entitats que són responsables d'ells i en cas de danys a tercers han de respondre.

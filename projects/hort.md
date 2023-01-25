@@ -1,6 +1,6 @@
 ---
-title: Coneixements relacionats amb l'hort
+title: "L'hort"
 layout: project
 projectCategory: Hort
-image: /assets/images/hort/verdures.jpg
+image: "/assets/images/hort/verdures.png"
 ---

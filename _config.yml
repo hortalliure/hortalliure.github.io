@@ -15,7 +15,7 @@ site-image: /assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Horta, Ecologia, linux, compostatge
 # URL for the Image of custom Favicon
-favicon-url: /assets/images/logo.png
+favicon-url: /assets/images/logo.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: /assets/images/meta.jpg
@@ -43,7 +43,7 @@ disqus-shortname: /
 # Name of the Author
 author-name: Horta Lliure
 # URL for the Image of the Author
-author-image: /assets/images/logo.png
+author-image: /assets/images/logo.jpg
 # 60 Words About the Author
 author-about: "Sóm un espai col·laboratiu de projectes educatius, creatius i lúdics amb l'objectiu de millorar la vida de les persones, des d'un punt de vista d'equitat social i millora del medi ambient."
 

@@ -1,7 +1,7 @@
 ---
 title: Software lliure a l'escola i a casa
 layout: project
-image: /assets/images/software/software.png
+image: "/assets/images/software/software.png"
 projectCategory: Software-lliure
 ---
 
