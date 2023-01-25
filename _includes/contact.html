@@ -1,6 +1,6 @@
 <section class="hero is-fullheight has-text-centered" id="contact">
     <div class="hero-body">
-        <div class="container">
+       <div class="container">
             <!--{% unless site.facebook_username == %}
             <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
@@ -8,14 +8,26 @@
                 <i class="fab fa-facebook-messenger"></i>Ping me on Messenger
             </a>
             {% endunless %}-->
-            {% unless site.email == %}
+            <!--{% unless site.email == %}
             <a id="contact-button" href="mailto:{{site.email}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
                 <i class="fas fa-envelope"></i>Enviam un correu
             </a>
-            {% endunless %}
-            <hr>
+            {% endunless %}-->
+            <h1 class="title is-1 is-uppercase has-text-weight-bold">
+                Formulari de contacte
+            </h1><br><br><br>
+
+            <form action="https://getform.io/f/5477f956-8e5a-4c65-9de7-45ec854c7c18" method="POST">
+              <label for="name" class="has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths">Nom</label><input class="input has-text-weight-normal" placeholder="Nom" type="text" name="name">
+              <label for="email" class="has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths">Email</label><input class="input has-text-weight-normal" placeholder="email" type="email" name="email">
+              <label for="message" class="has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths">Missatge</label><br>
+              <textarea class="textarea has-text-weight-normal" name="message" rows="8" cols="80">
+              </textarea><br><br>
+              <button class="button is-black is-rounded is-uppercase has-text-weight-normal is-outlined has-text-weight-semibold column is-two-fifths" type="submit">Envia</button>
+            </form>
+      <!--      <hr>
             <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
                 Pots trobar-nos en
             </h3>
@@ -60,7 +72,7 @@
                 target="_blank">
                 <i class="fab fa-discord"></i>#seguretat-informatica
             </a>
-            {% endunless %}
+            {% endunless %} -->
 
             <!--{% unless site.twitter_username == %}
             <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
