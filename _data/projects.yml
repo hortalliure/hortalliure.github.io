@@ -1,7 +1,7 @@
 - name: Protegir el medi mediambient
   link:  /projects/mediAmbient
   image: /assets/images/mediambient/polinitzar.jpg
-  description: Messures que podem fer per protegir el mediambient
+    description: Messures que podem fer per protegir el mediambient
 - name: L'hort
   link: /projects/hort
   image: /assets/images/hort/blat.jpg
@@ -12,10 +12,10 @@
   link: /projects/compost
   description: Compostatge urbà, gestionem la nostra fracció de residus orgànics.
   # ambit: mediambient
-- name: Empoderament digital
-  link: /projects/empoderamentDigital
-  image: /assets/images/empoderament/empoderament.jpg
-  description: Consolidem coneixements digitals, que ens ajudaran a ser més lliures.
+# - name: Empoderament digital
+#  link: /projects/empoderamentDigital
+#  image: /assets/images/empoderament/empoderament.jpg
+#  description: Consolidem coneixements digitals, que ens ajudaran a ser més lliures.
 - name: Software lliure a l'escola i a casa
   link: /projects/softwareLliure
   image: /assets/images/software/software.png

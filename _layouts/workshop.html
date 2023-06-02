@@ -18,8 +18,8 @@ layout: compress
                     <h1 class="title is-1 is-uppercase has-text-weight-bold">
                         {{page.title}}
                     </h1>
-                    <p id="description" class="content is-small has-text-weight-medium is-uppercase">{{page.description | strip | strip_html | strip_newlines }}</p>
                     <hr class="has-background-black">
+                    <p id="description" class="subtitle">{{page.description | strip | strip_html | strip_newlines }}</p>
                     <div class="content is-marginless">
                         {{ content }}
                     </div>

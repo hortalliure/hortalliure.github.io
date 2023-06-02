@@ -1,20 +1,15 @@
 - name: Taller Seguretat a la xarxa per pares
   link:  /workshops/seguretatXarxaPares
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  image: /assets/images/seguretat/seguretatFamilia.png
   description: Taller pràctic i un espai de debat per aprendre i millorar les nostres competències digitals. L’objectiu és tenir les eines necessàries per ajudar i acompanyar als nostres fills en l’ús del mòbil i les xarxes socials.
   categoryWorkshop: Seguretat-xarxa
 - name: Taller Seguretat a la xarxa per adolescents
   link:  /workshops/seguretatXarxaAdolescents
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  image: /assets/images/seguretat/adolescents.png
   description: Taller pràctic i un espai de debat per aprendre i millorar les competències digitals dels adolescents. L’objectiu és tenir les eines necessàries per protegir-se dins d’aquest món digital.
   categoryWorkshop: Seguretat-xarxa
-- name: Taller Introducció a linux
-  link:  /workshops/introduccioLinux
-  image: /assets/images/GNU-Linux/FonsGNULinux.png
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?
-  categoryWorkshop: Software-lliure
-- name: Taller Install party
+- name: Install party
   link:  /workshops/installParty
   image: /assets/images/linux/installParty.jpg
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?
+  description: Taller on iniciarém als participants al món de GNU/Linux.
   categoryWorkshop: Software-lliure
