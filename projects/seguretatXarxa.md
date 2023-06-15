@@ -29,10 +29,10 @@ Temes relacionats amb l'accés dels menors a la xarxa:
 
 Aquestes són les edats on hi ha canvis en els drets i deures dels infants i adolescent que afecten diferents aspectes en els seus drets i deures a la xarxa.
 
-**<14** La responsabilitat dels seus actes recauen als pares o tutors.
+- **<14** La responsabilitat dels seus actes recauen als pares o tutors.
 
-**[14:16]**  Edat de consentiment per part del menor per donar les seves dades personals, també és l’edat amb la qual pot ser jutjat i castigat com a menor. Pot crear comptes de correu, i donar-se d’alta a serveis a internet. Han de ser conscients de les seves responsabilitats legals.
+- **[14:16]**  Edat de consentiment per part del menor per donar les seves dades personals, també és l’edat amb la qual pot ser jutjat i castigat com a menor. Pot crear comptes de correu, i donar-se d’alta a serveis a internet. Han de ser conscients de les seves responsabilitats legals.
 
-**>=16** Edat de consentiment de relacions sexuals a Espanya.
+- **>=16** Edat de consentiment de relacions sexuals a Espanya.
 
-**>=18** Gaudeix de tots els drets i deures d’un adult. Els menors de 18 estan sota la tutela d’adults o entitats que són responsables d'ells i en cas de danys a tercers han de respondre.
+- **>=18** Gaudeix de tots els drets i deures d’un adult. Els menors de 18 estan sota la tutela d’adults o entitats que són responsables d'ells i en cas de danys a tercers han de respondre.
