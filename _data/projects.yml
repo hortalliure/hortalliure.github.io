@@ -1,17 +1,18 @@
 - name: Protegir el medi mediambient
   link:  /projects/mediAmbient
   image: /assets/images/mediambient/polinitzar.jpg
-    description: Messures que podem fer per protegir el mediambient
+  description: Messures que podem fer per protegir el mediambient
+  ambit: mediambient
 - name: L'hort
   link: /projects/hort
   image: /assets/images/hort/blat.jpg
   description: Possa un hort a la teva vida. Aprofita els beneficis que a porta l'hort.
-  # ambit: mediambient
+  ambit: mediambient
 - name: Compost
   image: /assets/images/compost/vermicompostador.jpg
   link: /projects/compost
   description: Compostatge urbà, gestionem la nostra fracció de residus orgànics.
-  # ambit: mediambient
+  ambit: mediambient
 # - name: Empoderament digital
 #  link: /projects/empoderamentDigital
 #  image: /assets/images/empoderament/empoderament.jpg
