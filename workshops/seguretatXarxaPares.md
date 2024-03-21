@@ -7,7 +7,7 @@ workshopCategory: Seguretat-xarxa
 ---
 
 
-## Formació per pares
+## Taller formatiu per pares
 
 És important que els pares ens posem les piles i ens formem, per tal d'acompanyar als nostres fills en el procés de digitalitzar-ser.
 
