@@ -11,11 +11,13 @@ workshopCategory: Seguretat-xarxa
 
 És important que els pares ens posem les piles i ens formem, per tal d'acompanyar als nostres fills en el procés de digitalitzar-ser.
 
-Les eines que podem fem servir: **Google Family Link, Google SafeSearch, Youtube Restricted mode, Whitelist als navegadors, extensions AdBlock, Gosthery i Keepass**.
+Les eines que ensenyarem a fer servir són: **Google Family Link, Google SafeSearch, Youtube Restricted mode, Whitelist als navegadors, extensions AdBlock, Gosthery i Keepass**.
 
-Temes relacionats amb l'accés dels menors a la xarxa:
+Riscos dels menors a la xarxa:
 - Accés a la informació.
 - Accés a persones.
 - Compartir informació personal.
-- Assetjament.
+- Assetjament digital.
 - Addiccions a xarxes socials i jocs.
+
+El objectiu del taller es parlar d'aquests temes i explorar diferents solucions.
