@@ -20,4 +20,4 @@ Riscos dels menors a la xarxa:
 - Assetjament digital.
 - Addiccions a xarxes socials i jocs.
 
-El objectiu del taller es parlar d'aquests temes i explorar diferents solucions.
+El objectiu del taller es parlar d'aquests temes i explorar diferents sol·lucions.
