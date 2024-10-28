@@ -17,11 +17,11 @@
 #  link: /projects/empoderamentDigital
 #  image: /assets/images/empoderament/empoderament.jpg
 #  description: Consolidem coneixements digitals, que ens ajudaran a ser més lliures.
-- name: Software lliure a l'escola i a casa
+- name: Software lliure i arduino
   link: /projects/softwareLliure
   image: /assets/images/software/software.png
   description: Aprofitem totes els avantatges del software lliure tant a casa com a l'escola.
-- name: Seguretat a la xarxa
-  link: /projects/seguretatXarxa
-  image: /assets/images/seguretat/adolescentMobil.jpg
-  description: Protegir-nos i ensenyar a protegir-se als nostres fills a la xarxa.
+#- name: Seguretat a la xarxa
+#  link: /projects/seguretatXarxa
+#  image: /assets/images/seguretat/adolescentMobil.jpg
+#  description: Protegir-nos i ensenyar a protegir-se als nostres fills a la xarxa.
