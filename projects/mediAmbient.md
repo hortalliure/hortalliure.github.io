@@ -5,13 +5,12 @@ projectCategory: Mediambient
 image: "/assets/images/mediambient/insecte.png"
 ---
 
-L'objectiu d'aquest projecte és, per una banda, reduir la nostra petjada ecològica, i per
-l'altre, la protecció de la fauna i la flora.
+Com podem reduir la nostra petjada ecològica. Necessitem canviar els nostres habits, reduir el consum, fer un consum més responsable per generar meny residus i en la mesura de lo posible fer tot el posible per gestionar els nostres residus lo més ecologicament possible.
 
 Eixos d'acció:
-- Reducció de la producció de residus.
 - Reducció del consum de recursos:
   - Energia.
   - Aigua.
   - Materials.
+- Reducció de la producció de residus millorant le seva gestió.
 - Protecció de la fauna i flora.
