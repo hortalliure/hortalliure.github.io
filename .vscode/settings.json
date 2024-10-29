@@ -1,10 +1,14 @@
 {
-    "languageTool.language": "ca-ES",
+    "ltex.language": "ca-ES",
     "cSpell.words": [
         "layout",
         "mediambient",
         "Mediambient",
         "meny",
         "posible"
-    ]
+    ],
+    "ltex.additionalRules.motherTongue": "",
+    "ltex.additionalRules.languageModel": "",
+    "ltex.additionalRules.enablePickyRules": true,
+    "ltex.diagnosticSeverity": "information"
 }

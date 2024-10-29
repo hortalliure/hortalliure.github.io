@@ -5,12 +5,18 @@ projectCategory: Mediambient
 image: "/assets/images/mediambient/insecte.png"
 ---
 
-Com podem reduir la nostra petjada ecològica. Necessitem canviar els nostres habits, reduir el consum, fer un consum més responsable per generar meny residus i en la mesura de lo posible fer tot el posible per gestionar els nostres residus lo més ecologicament possible.
+### Com podem reduir la nostra petjada ecològica? 
 
-Eixos d'acció:
+Necessitem canviar els nostres hàbits, reduir el consum fent un consum més responsable i generar menys residus.
+També gestionar els residus el més ecològicament possible.
+
+Eixos d’acció:
 - Reducció del consum de recursos:
   - Energia.
+    - Apagar els equips/màquines quan no fem servir.
+    - Cercar equips i màquines eficients energèticament.
+    - Escollir processos amb poc consum d’energia. 
   - Aigua.
   - Materials.
-- Reducció de la producció de residus millorant le seva gestió.
+- Reducció de la producció de residus millorant la seva gestió.
 - Protecció de la fauna i flora.
